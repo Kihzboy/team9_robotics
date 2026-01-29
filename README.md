@@ -21,8 +21,13 @@ Required environment:
 # Work division
 
 Hardware setup made by Abdurakhman Aidarkhan
+
 Jetson external powerset made by Aleksei Lukianov
+
 Python files written by Abdurakhman Aidarkhan & Aleksei Lukianov
+
 Cardboard maze for tests made by Azamat Zhalgassov
+
 Network setup made by Said Darkhanuly
+
 Presentation made by Azamat Zhalgassov & Said Darkhanuly
