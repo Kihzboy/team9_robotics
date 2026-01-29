@@ -1,6 +1,7 @@
 # Obstacle detecting rover
 
 This repository contains source files of team9's autonomous rover project.
+
 Authors: Abdurakhman Aidarkhan, Aleksei Lukianov, Azamat Zhalgassov, Said Darkhanuly
 
 # Instruction
