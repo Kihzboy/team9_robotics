@@ -26,7 +26,7 @@ Required environment:
 
 According to small group size, GitHub is used only for final submission.
 
-The whole work with hardware was done during in-real-life sessions in university.
+The whole work with hardware was done during live sessions in university.
 
 Files like python code, presentation, paper were sent between group members via telegram.
 
