@@ -2,7 +2,7 @@
 
 This repository contains source files of team9's autonomous rover project.
 
-Authors: Abdurakhman Aidarkhan, Aleksei Lukianov, Azamat Zhalgassov, Said Darkhanuly
+Authors: ***Abdurakhman Aidarkhan***, ***Aleksei Lukianov***, ***Azamat Zhalgassov***, ***Said Darkhanuly***
 
 
 # Instruction
@@ -54,18 +54,18 @@ January 13 - Video recording, summarizing of the project
 
 # Work division
 
-Hardware setup made by Abdurakhman Aidarkhan
+Hardware setup made by ***Abdurakhman Aidarkhan***
 
-Jetson external power set made by Aleksei Lukianov
+Jetson external power set made by ***Aleksei Lukianov***
 
-Python files written by Abdurakhman Aidarkhan & Aleksei Lukianov
+Python files written by ***Abdurakhman Aidarkhan & Aleksei Lukianov***
 
-Cardboard maze for tests made by Azamat Zhalgassov
+Cardboard maze for tests made by ***Azamat Zhalgassov***
 
-Network setup made by Said Darkhanuly
+Network setup made by ***Said Darkhanuly***
 
-Presentation made by Azamat Zhalgassov & Said Darkhanuly
+Presentation made by ***Azamat Zhalgassov & Said Darkhanuly***
 
-GitHub repository made by Aleksei Lukianov
+GitHub repository made by ***Aleksei Lukianov***
 
-Paper written by all team members
+Paper written by ***all team members***
