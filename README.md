@@ -31,11 +31,34 @@ The whole work with hardware was done during live sessions in university.
 Files like python code, presentation, paper were sent between group members via telegram.
 
 
+On-site sessions on Tuesdays:
+
+October 28 - UGV02 flash
+
+November 4 - Jetson flash
+
+
+November 11 - Network setup
+
+November 18 - Hardware setup, first commands via web interface
+
+November 25 - first https requests, first python code
+
+
+December 2 - Completed python files
+
+December 16 - External battery power set implementation, first full autonomous launch
+
+December 23 - Maze tests
+
+January 13 - Video recording, summarizing of the project
+
+
 # Work division
 
-Hardware setup made by Abdurakhman Aidarkhan
+Hardware setup made by <u>Abdurakhman Aidarkhan</u>
 
-Jetson external powerset made by Aleksei Lukianov
+Jetson external power set made by Aleksei Lukianov
 
 Python files written by Abdurakhman Aidarkhan & Aleksei Lukianov
 
