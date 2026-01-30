@@ -17,7 +17,7 @@ Pyhton files should be modified using your network ip address.
 
 Then the needed file can be executed via ssh using "python3 maze.py" or "python3 avoider.py" command.
 
-Required environment:
+### Required environment:
 1. Python 3
 2. Python libraries: rplidar, requests, time
 
