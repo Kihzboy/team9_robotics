@@ -31,19 +31,17 @@ The whole work with hardware was done during live sessions in university.
 Files like python code, presentation, paper were sent between group members via telegram.
 
 
-On-site sessions on Tuesdays:
+## On-site sessions on Tuesdays:
 
 October 28 - UGV02 flash
 
 November 4 - Jetson flash
-
 
 November 11 - Network setup
 
 November 18 - Hardware setup, first commands via web interface
 
 November 25 - first https requests, first python code
-
 
 December 2 - Completed python files
 
@@ -56,7 +54,7 @@ January 13 - Video recording, summarizing of the project
 
 # Work division
 
-Hardware setup made by <u>Abdurakhman Aidarkhan</u>
+Hardware setup made by Abdurakhman Aidarkhan
 
 Jetson external power set made by Aleksei Lukianov
 
