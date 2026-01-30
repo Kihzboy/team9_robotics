@@ -8,8 +8,8 @@ Authors: Abdurakhman Aidarkhan, Aleksei Lukianov, Azamat Zhalgassov, Said Darkha
 # Instruction
 
 The rover has 2 core scenarios:
-1. Maze-solving robot
-2. Obstacle avoiding robot
+1. Maze-solving robot (maze.py)
+2. Obstacle avoiding robot (avoider.py)
 
 Both files from PROJECT_SOURCE_CODE directory should be downloaded to the root directory of the jetson.
 
