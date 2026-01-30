@@ -31,7 +31,7 @@ The whole work with hardware was done during live sessions in university.
 Files like python code, presentation, paper were sent between group members via telegram.
 
 
-## On-site sessions on Tuesdays:
+### On-site sessions on Tuesdays:
 
 October 28 - UGV02 flash
 
